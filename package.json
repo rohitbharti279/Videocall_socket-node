@@ -17,16 +17,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/amirsanni/livestream-server.git"
+        "url": "git+https://github.com/rohitbharti279/Videocall_socket-node.git"
     },
     "keywords": [
         "LiveStream",
         "Server"
     ],
-    "author": "Rohit Bharti <rohitbharti@gmail.com>",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/amirsanni/livestream-server/issues"
-    },
-    "homepage": "https://github.com/amirsanni/livestream-server#readme"
+    "author": "Rohit Bharti <rohitbharti279@gmail.com>",
+    "license": "ISC"
 }
