@@ -6,6 +6,7 @@ A Video call app using WebRTC, Socket.io and Node.js with additional features.
 
 + Multi-participants
 + Toggling of video stream
++ You can HIDE your video
 + Toggling of audio stream (mute & unmute)
 + Screen sharing
 + Text chat
